@@ -1,6 +1,6 @@
 # PHP 7.0+ MySQL Session Handler
 
-This repository contains a custom PHP session handler using MySQL as a backend. There is also [an example codebase using this package](https://github.com/programster/PHP-MySQL-Session-Handler).
+This repository contains a custom PHP session handler using MySQL as a backend. There is also [an example codebase using this package](https://github.com/programster/MySQL-Sessions-Package-Demo).
 
 ## How to Install
 
